@@ -9,11 +9,11 @@ Team ID : NM2023TMID09523
 
 Team Leader : Logeshwaran S
 
-Team member1 : Lokeshbabu A
+Team member 1 : Lokeshbabu A
 
-Team member2 : Vinith Kumar R
+Team member 2 : Vinith Kumar R
 
-Team member3 : Srinivasan R
+Team member 3 : Srinivasan R
 
 Demo Link: https://drive.google.com/file/d/151mGycnZhQkOGAp2JrMcyWDJE4U7JrC1/view?usp=drivesdk
 
